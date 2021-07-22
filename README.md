@@ -21,12 +21,13 @@ AS AN employee with a busy schedule. I want to add important events to a daily p
 <li>THEN the saved events persist </li>
 
 # Image 
-
+<img src="assests /Scheduler.jpg" alt="">
 # Links 
-Github
-Deployed website
+ <a href="https://github.com/megwatson88/calender-05-project">Github Repository </a>
+<a href="https://megwatson88.github.io/calender-05-project/">Deployed website </a>
 
 # Sources used 
-YouTube.com
-w3schools.com
-Trilogy Education Services  provided the starting code 
+<ol>
+<li>YouTube.com <a>
+<li>w3schools.com <a>
+<li> Trilogy Education Services  provided the starting code 
