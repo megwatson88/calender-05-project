@@ -19,15 +19,19 @@ AS AN employee with a busy schedule. I want to add important events to a daily p
 <li>THEN the text for that event is saved in local storage </li>
 <li>WHEN I refresh the page </li>
 <li>THEN the saved events persist </li>
-
+</ul>
 # Image 
 <img src="assests /Scheduler.jpg" alt="">
+
 # Links 
- <a href="https://github.com/megwatson88/calender-05-project">Github Repository </a>
-<a href="https://megwatson88.github.io/calender-05-project/">Deployed website </a>
+<ul>
+<li> <a href="https://github.com/megwatson88/calender-05-project">Github Repository </a>
+<li> <a href="https://megwatson88.github.io/calender-05-project/">Deployed website </a>
+</ul>
 
 # Sources used 
 <ol>
-<li>YouTube.com <a>
-<li>w3schools.com <a>
-<li> Trilogy Education Services  provided the starting code 
+<li>YouTube.com </li>
+<li>w3schools.com </li>
+<li> Trilogy Education Services  provided the starting code </li>
+</ol>
