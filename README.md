@@ -20,7 +20,9 @@ AS AN employee with a busy schedule. I want to add important events to a daily p
 <li>WHEN I refresh the page </li>
 <li>THEN the saved events persist </li>
 </ul>
+
 # Image 
+
 <img src="assests /Scheduler.jpg" alt="">
 
 # Links 
